@@ -18,7 +18,14 @@ mis gustos personales son
     <li>Jugar en pc.👾
 </ul>
 
+*Espectativas del curso
 
+<ul>
+  <li> mejoras  buens practicas con git
+  <li> Entender como es la comunicacion de front con back
+  <li> Aprender mas acerca de node js
+  <li> Conocer mas acerca de als base de datos
+   
 🚀
 
 
