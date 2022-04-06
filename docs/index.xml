@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje de Christian on Bitácora de Viaje de christian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://christiandem.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://christiandem.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Título de tu blog post</title>
+      <link>https://christiandem.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://christiandem.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Nuevos post :)</description>
+    </item>
+    
     <item>
       <title>Es tiempo de crear un nuevo Post</title>
       <link>https://christiandem.github.io/my_launchx_blog/posts/intro/</link>
