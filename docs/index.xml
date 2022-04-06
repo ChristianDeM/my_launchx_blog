@@ -8,12 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://christiandem.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Título de tu blog post</title>
+      <title>expectativas del curso  👾</title>
       <link>https://christiandem.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://christiandem.github.io/my_launchx_blog/posts/post_1/</guid>
-      <description>Nuevos post :)</description>
+      <description>Hola que tal explorers el día de hoy les voy a contar acerca de mis expectativas del curso de node.js
+Hace tiempo trabaje con npm sin saber que trabajaba con un j.son. Mi primer interacción con node fue con home assistant un sistema para controlar distintos aparatos domóticos y centralizarlos en una sola. Ahora con este curso espero comprender un poco más de que fue lo que hice en ese momento ya que fue un proyecto de prueba y error.</description>
     </item>
     
     <item>
