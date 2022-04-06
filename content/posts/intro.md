@@ -1,7 +1,12 @@
 ---
-title: "Mis expectativas"
+title: "Es tiempo de crear un nuevo Post"
 date: 2022-02-21T18:16:21-06:00
-description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
+description: 'Nunca es tarda para empezar en un nuevo proyecto.'
 ---
+Hola todo el mundo como les va
 
-Usa este post para anotar tus expectativas de la misión.
+El dia de hoy me encuentro muy contento por que estoy aprendiendo mas acerca de el mundo de la programacion. 
+Anteriormente me habia acercado un poco a php  y con algunos frameworks  como bootsrap ,pero ahora estoy con todo dandole a JS.
+
+Gracias a toda la comunidad. 
+
