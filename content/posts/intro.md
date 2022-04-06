@@ -1,18 +1,19 @@
 ---
-title: "Es tiempo de crear un nuevo Post"
+title: "La cultura de un desarrollad@r de software"
 date: 2022-02-21T18:16:21-06:00
-description: 'Nunca es tarda para empezar en un nuevo proyecto.
-
-
-Gracias a toda la comunidad. '
+description: ' la cultura de un desarrollador de software'
 ---
+hola que tal lectores. Acontinuacion un pequeño listado de las habilidades y valores que consedero para ser un desarrollad@r de software
 
-
-
-Hola todo el mundo como les va
-
-El dia de hoy me encuentro muy contento por que estoy aprendiendo mas acerca de el mundo de la programacion. 
-Anteriormente me habia acercado un poco a php  y con algunos frameworks  como bootsrap ,pero ahora estoy con todo dandole a JS.
-*Espectativas del curso
-
-
+<li>  Tolerancia a la frustracios
+<li>  Creativo
+<li>  Responsable
+<li>  Innvador
+<li>  Honesto
+<li>  Capacidad de comunicación
+<li>  confianza
+<li>  Proactivo
+<li>  Autodidacta
+<li>  Pasiente
+<li>  Buenas practicas
+<li>  Pedir ayuda  cuando se nececita (la comunidad de  es muy buena  siempre se puede pedir ayuda de otros devs )
