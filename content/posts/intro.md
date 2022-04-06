@@ -13,3 +13,11 @@ Hola todo el mundo como les va
 
 El dia de hoy me encuentro muy contento por que estoy aprendiendo mas acerca de el mundo de la programacion. 
 Anteriormente me habia acercado un poco a php  y con algunos frameworks  como bootsrap ,pero ahora estoy con todo dandole a JS.
+*Espectativas del curso
+
+<ul>
+  <li> mejoras  buens practicas con git
+  <li> Entender como es la comunicacion de front con back
+  <li> Aprender mas acerca de node js
+  <li> Conocer mas acerca de als base de datos
+   
