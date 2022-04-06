@@ -5,17 +5,42 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## Bienvenidos a mi blog.
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola que tal expolorers 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Siempre se aprende algo nuevo.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Hola que tal explorers soy christian.  
+Estudie la carrera de ingeneria en sistemas. actualmente trabajo como frelance. 
+Anteriormente estuve trabajando en el mundo de la domotica (smart homes 🏚️)
 
+
+Mis pasatiempos son los siguientes:
+
+<ul>
+  <li> Tocar guitarra (clasica) :guitar:
+  <li> Remasterizar videos a 4k  📷
+  <li> renderizar modelos mmd con blender 🤖
+  <li> Editar fotos y con momentos randoms 📷
+  <li> Jugar videojuegos en pc :headphones:
+  <li> dibujar.:art:
+  <li> tomar fotos 📷
+  <li> Domotizar mi casa 🏚️
+ </ul>
+ 
+Instagram personal: [link](https://www.instagram.com/christian.de.martino/). <br>
+Instagram fotos: [Link](https://www.instagram.com/yanothecatrandom/). <br>
+Youtube: [Link](https://www.youtube.com/channel/UCggXbr1RsEMFuh3sSjP7AIw).
+  
+<div>
+  <p style ='text-align:center;'>
+  <img src="https://raw.githubusercontent.com/ChristianDeM/my_launchx_blog/dfb12aecf25e298de1d867b66f56219d0c51022b/themes/hugo-winston-theme/images/photo1.jpg"    alt="Img about me" width="300px">
+</p>
+</div> 
+    
+
+ 
+
+ 
+    
