@@ -32,12 +32,9 @@ Mis pasatiempos son los siguientes:
 Instagram personal: [link](https://www.instagram.com/christian.de.martino/). <br>
 Instagram fotos: [Link](https://www.instagram.com/yanothecatrandom/). <br>
 Youtube: [Link](https://www.youtube.com/channel/UCggXbr1RsEMFuh3sSjP7AIw).
-  
-<div>
-  <p style ='text-align:center;'>
-  <img src="https://raw.githubusercontent.com/ChristianDeM/my_launchx_blog/dfb12aecf25e298de1d867b66f56219d0c51022b/themes/hugo-winston-theme/images/photo1.jpg"    alt="Img about me" width="300px">
-</p>
-</div> 
+ 
+![Drag Racing](https://raw.githubusercontent.com/ChristianDeM/my_launchx_blog/dfb12aecf25e298de1d867b66f56219d0c51022b/themes/hugo-winston-theme/images/photo1.jpg)
+
     
 
  
