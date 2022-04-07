@@ -6,7 +6,25 @@
     <description>Recent content in Launch X Bitácora de viaje de Christian on Bitácora de Viaje de christian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://christiandem.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://christiandem.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje</title>
+      <link>https://christiandem.github.io/my_launchx_blog/posts/mi-ruta-de-aprendizaje/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://christiandem.github.io/my_launchx_blog/posts/mi-ruta-de-aprendizaje/</guid>
+      <description>Hola que tal explorers un poco de lo aprendido en este curso. El simple hecho de usar Git cosa que nunca me lo habían pedido en alguna de las empresas donde he trabajado fue un gran cambio para mí. Ya lo conocía pero no me daba el tiempo de meterme en ello y para mi sorpresa es como que lo primero que se debe de hacer al entrar al mundo de desarrollo de software.</description>
+    </item>
+    
+    <item>
+      <title>Algunos renders :)</title>
+      <link>https://christiandem.github.io/my_launchx_blog/posts/algunos-renders/</link>
+      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
+      
+      <guid>https://christiandem.github.io/my_launchx_blog/posts/algunos-renders/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>La cultura de un desarrollad@r de software</title>
       <link>https://christiandem.github.io/my_launchx_blog/posts/intro/</link>
@@ -26,9 +44,10 @@
       <description>Bienvenidos a mi blog. Hola que tal expolorers 🤩
  Siempre se aprende algo nuevo.
  Hola que tal explorers soy christian.
-Estudie la carrera de ingeneria en sistemas. actualmente trabajo como frelance. Anteriormente estuve trabajando en el mundo de la domotica (smart homes 🏚️)
-Mis pasatiempos son los siguientes:
-Instagram personal: link. Instagram fotos: Link. Youtube: Link.</description>
+Estudie la carrera de ingeneria en sistemas. actualmente trabajo como frelance. Anteriormente estuve trabajando en el mundo de la domotica (smart homes 🏚️) Mis pasatiempos son los siguientes:
+  Tocar guitarra (clasica) :guitar:
+  Remasterizar videos a 4k 📷
+  renderizar modelos mmd con blender 🤖</description>
     </item>
     
   </channel>
